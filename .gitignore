@@ -3,18 +3,13 @@
 
 .gradle/
 .idea/
-build/
 
 
-*.iml
-*.class
 **/out/
 
-files/
-.gitignore
-build.gradle
+
 gradle/
 gradlew
 gradlew.bat
 settings.gradle
-src/
+
